@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.class
+cloudflared.exe
+*.log
+.system_generated/
+data/*.tmp
